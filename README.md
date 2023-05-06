@@ -1,1 +1,1 @@
-my first git with tunji
+my first git with tunji from github
